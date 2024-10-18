@@ -1,0 +1,4 @@
+{
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "t@typescript-eslint/no-explicit-any": "off"
+}
